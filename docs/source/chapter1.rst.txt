@@ -1,7 +1,7 @@
-Rozdział 1 — Wprowadzenie
+Rozdział 1 — Fc Barcelona
 ==========================
 
-Robert Lewandowski w akcji na Camp Nou! Reprezentant Polski gra od pierwszej minuty w meczu FC Barcelona — Deportivo Alaves. 14. kolejka LaLigi może nawet przynieść zmianę lidera! Do tego potrzeba wpadki Realu Madryt, ale przede wszystkim 3 punkty dopisać musi sobie Blaugrana. Emocje w Katalonii nie ustają.
+Po porażce z Chelsea 0:3 w Lidze Mistrzów FC Barcelona przystąpiła do walki w rozgrywkach LaLiga. Tym razem rywalem ekipy Hansiego Flicka na Camp Nou był ligowy średniak, Deportivo Alaves. Spotkanie było bardzo emocjonujące, bowiem już w 1. minucie na prowadzeniu było Deportivo. Finalnie górą 3:1 okazali się gospodarze. Bohaterem spotkania bez wątpienia był Dani Olmo, który zaliczył dwa gole. Świetną asystą popisał się Robert Lewandowski. Zwycięstwo to pozwala Barcelonie awansować na 1. miejsce w ligowej tabeli.
 
 Lista Strzelców:
 - 1' Ibanze
@@ -9,5 +9,5 @@ Lista Strzelców:
 - 27',90+4' Olmo
 
 .. image:: images/figure.png
-   :alt: przykładowy obrazek
+   :alt: Robert Lewandowski
    :width: 300px
