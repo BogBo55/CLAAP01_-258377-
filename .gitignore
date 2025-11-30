@@ -1,4 +1,22 @@
+# Ignoruj katalog z wygenerowaną dokumentacją HTML i LaTeX
 docs/build/
-*.pyc
-__pycache__/
+
+# Ignoruj wirtualne środowisko
 .venv/
+
+# Ignoruj pliki Python cache
+__pycache__/
+*.pyc
+
+# Ignoruj pliki wynikowe Sphinx (PDF, LaTeX build artifacts)
+*.pdf
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Ignoruj archiwum wynikowe
+*.tar.gz
