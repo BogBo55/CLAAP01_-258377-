@@ -1,5 +1,5 @@
 Rozdział 2 — Aktualna tabela La Liga
-=============================
+=====================================
 
 Tabela La Liga — TOP 4
 
